@@ -21,21 +21,21 @@ We validate the logic in **Tinkercad (wired TX→RX)** and then build the **hard
 ### 1️⃣ Tinkercad 3D Breadboard View  
 This shows the real connection between ARD1 (Transmitter) and ARD2 (Receiver).
 
-![Tinkercad Breadboard](docs/tinker.png)
+![Tinkercad Breadboard](docs/tinkercad.png.png)
 
 ---
 
 ### 2️⃣ Circuit Schematic  
 Generated from Tinkercad — clearly shows wiring and components.
 
-![Schematic](docs/Schematic.png)
+![Schematic](docs/schematic.png.png)
 
 ---
 
 ### 3️⃣ Block Diagram / System Overview  
 High-level representation of binary data flow from PC → Transmitter → Light → Receiver → PC.
 
-![System Diagram](docs/System Diagram.png)
+![System Diagram](docs/SystemDiagram.png)
 
 ## License
 MIT.
