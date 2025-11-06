@@ -16,9 +16,26 @@ We validate the logic in **Tinkercad (wired TX→RX)** and then build the **hard
 - **RX:** +5V → LDR → **A0** → 10kΩ → GND.  
 - Use `/src/Receiver_Optical/Receiver_Optical.ino` (threshold + hysteresis).
 
-## Screenshots
-![Tinkercad](docs/tinkercad-sim.png)
-![Wiring](docs/wiring-tx-rx.png)
+## 🖼️ Circuit Diagrams & Simulation
+
+### 1️⃣ Tinkercad 3D Breadboard View  
+This shows the real connection between ARD1 (Transmitter) and ARD2 (Receiver).
+
+![Tinkercad Breadboard](docs/tinker.png)
+
+---
+
+### 2️⃣ Circuit Schematic  
+Generated from Tinkercad — clearly shows wiring and components.
+
+![Schematic](docs/Schematic.png)
+
+---
+
+### 3️⃣ Block Diagram / System Overview  
+High-level representation of binary data flow from PC → Transmitter → Light → Receiver → PC.
+
+![System Diagram](docs/System Diagram.png)
 
 ## License
 MIT.
