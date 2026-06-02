@@ -21,14 +21,14 @@ We validate the logic in **Tinkercad (wired TX→RX)** and then build the **hard
 ### 1️⃣ Tinkercad 3D Breadboard View  
 This shows the real connection between ARD1 (Transmitter) and ARD2 (Receiver).
 
-![Tinkercad Breadboard](docs/tinkercad.png.png)
+![Tinkercad Breadboard](docs/tinkercad.png)
 
 ---
 
 ### 2️⃣ Circuit Schematic  
 Generated from Tinkercad — clearly shows wiring and components.
 
-![Schematic](docs/schematic.png.png)
+![Schematic](docs/schematic.png)
 
 ---
 
